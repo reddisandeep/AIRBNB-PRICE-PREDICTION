@@ -86,16 +86,11 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command, mapping any necessary ports:
      ```
-     docker run -p 5000:5000 kalyan45/airbnb-app
+     docker run -p 5000:5000 reddisandeep/airbnb-app
      ```
 
 3. **Access the Project**
    - Open a web browser or the appropriate client to access the project.
-
-## Troubleshooting
-
-- If you encounter any issues during the installation process, Contact me at ```kalyanmurapaka274@gmail.com```
-
 
 # Contributing
 
